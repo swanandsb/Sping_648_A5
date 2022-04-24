@@ -14,7 +14,7 @@ const initialProducts = [
   },
   {
     id: 2,
-    name: 'Calvin Kelin',
+    name: 'Calvin Klein',
     category: 'Shirts',
     price: '145',
     imageUrl: 'https://picsum.photos/500/500',
