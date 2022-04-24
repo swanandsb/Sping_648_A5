@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/swanandsb/Sping_648_A5"
   },
-  "homepage": "https://github.com/swanandsb/Sping_648_A5",
+  "homepage": "https://github.com/swanandsb/Sping_648_A5#readme",
   "dependencies": {
     "babel-polyfill": "^6.26.0",
     "dotenv": "^8.2.0",
