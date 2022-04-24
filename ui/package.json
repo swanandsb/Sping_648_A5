@@ -1,7 +1,7 @@
 {
   "name": "assignment5-ui",
   "version": "1.0.0",
-  "description": "MERN Stack Assignment 5 UI",
+  "description": "UI",
   "main": "index.js",
   "scripts": {
     "#start": "To start UI server. HMR is enabled in dev mode.",
