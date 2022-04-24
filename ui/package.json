@@ -1,5 +1,5 @@
 {
-  "name": "assignment5-ui",
+  "name": "assignment5",
   "version": "1.0.0",
   "description": "UI",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "type": "git",
     "url": "git+https://github.com/swanandsb/Sping_648_A5"
   },
-  "author": "Pooja Yadav",
+  "author": "Swanand",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/swanandsb/Sping_648_A5"
